@@ -3598,3 +3598,9 @@ pre .clojure .title {
 pre .deletion {
   color: #dc322f;
 }
+blockquote {
+  background: #f2f4f6;
+}
+.line {
+  margin: 5px 0;
+}
